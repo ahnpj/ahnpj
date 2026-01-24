@@ -20,27 +20,23 @@ This repository provides an overview of all investigations, operational workflow
 
 ---
 
-
 ## Featured Repositories
 
-
-Incident Response & Investigations
-Repository: `incident-response-and-investigations`
-End-to-end incident investigations with evidence analysis, reporting, detection artifacts, and MITRE ATT&CK mapping.
-
-
-Security Operations Workflows
-Repository: `security-operations-workflows`
-Task-based SOC workflows for triage, log analysis, endpoint validation, and detection development.
+1) **Incident Response & Investigations**
+- Repository: `incident-response-and-investigations`
+- End-to-end incident investigations with evidence analysis, reporting, detection artifacts, and MITRE ATT&CK mapping.
 
 
-SOC Playbooks & Procedures (in progress)
-Repository: `soc-playbooks-and-procedures`
-Operational response playbooks and escalation procedures for common security scenarios.
+2) **Security Operations Workflows**
+- Repository: `security-operations-workflows`
+- Task-based SOC workflows for triage, log analysis, endpoint validation, and detection development.
 
+
+3) **SOC Playbooks & Procedures (in progress)**
+- Repository: `soc-playbooks-and-procedures`
+- Operational response playbooks and escalation procedures for common security scenarios.
 
 ---
-
 
 ## Areas of Focus
 
@@ -51,17 +47,6 @@ Operational response playbooks and escalation procedures for common security sce
 - Detection engineering concepts and automation design
 - Mapping investigations to security frameworks
 
-
----
-
-
-## Connect
-
-
-Resume: https://drive.google.com/…
-LinkedIn: https://www.linkedin.com/in/…
-TryHackMe: https://tryhackme.com/p/…
-Email: peterjihyunahn@gmail.com
 ---
 
 ### Connect
