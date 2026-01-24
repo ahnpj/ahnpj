@@ -36,13 +36,14 @@ This repository is the central hub and navigation guide and provides an overview
 
 ---
 
-### Background and Methodology
+### About This Portfolio and My Background
 
-Additional context on my technical background, analytical approach, and how I structure investigations and workflows is documented in:
+For additional context on my background, analytical approach, and security focus areas, see:
 
+**About Me / Working Notes**  
 Repository: `peterahn`
 
-This repository serves as a brief overview of my professional background and learning methodology, separate from the technical case work and operational workflows linked above.
+This repository provides an overview of my technical background, how I approach investigations and operational analysis, and the types of security problems I focus on working through.
 
 ---
 
