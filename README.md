@@ -11,11 +11,9 @@ This GitHub documents hands-on investigations, SOC workflows, detection logic, a
 ### Start Here — Portfolio Overview
 
 
-Cybersecurity & IT Operations Portfolio (central hub and navigation guide)
-Repository: `cybersecurity-it-operations-portfolio`
+**Cybersecurity & IT Operations Portfolio** (Repository: `cybersecurity-it-operations-portfolio`)
 
-
-This repository provides an overview of all investigations, operational workflows, and response playbooks, with explanations of how the work is organized and how to navigate each area.
+This repository is the central hub and navigation guide and provides an overview of all investigations, operational workflows, and response playbooks, with explanations of how the work is organized and how to navigate each area.
 
 
 ---
@@ -24,7 +22,7 @@ This repository provides an overview of all investigations, operational workflow
 
 1) **Incident Response & Investigations**
 - Repository: `incident-response-and-investigations`
-- End-to-end incident investigations with evidence analysis, reporting, detection artifacts, and MITRE ATT&CK mapping.
+- End-to-end incident investigations with full case documentation, including detailed walkthroughs, incident summaries, formal IR reports, complete case narratives, detection artifact analysis, detection and hardening recommendations, and MITRE ATT&CK technique mapping.
 
 
 2) **Security Operations Workflows**
