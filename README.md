@@ -37,11 +37,3 @@ Repository: `peterahn`
 This repository provides an overview of my technical background, how I approach investigations and operational analysis, and the types of security problems I focus on working through.
 
 ---
-
-### Connect
-
-| Contact | Link |
-|--------|------|
-| Resume | https://drive.google.com/file/d/1SYtgvSbo3bs9vm5KlT6HAU0wfedNkQyD/view |
-| LinkedIn | https://www.linkedin.com/in/your-link-here |
-| Email | peterjihyunahn@gmail.com |
