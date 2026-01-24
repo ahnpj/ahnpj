@@ -8,7 +8,7 @@ This GitHub documents hands-on investigations, SOC workflows, detection logic, a
 ---
 
 
-## Start Here — Portfolio Overview
+### Start Here — Portfolio Overview
 
 
 Cybersecurity & IT Operations Portfolio (central hub and navigation guide)
@@ -20,7 +20,7 @@ This repository provides an overview of all investigations, operational workflow
 
 ---
 
-## Featured Repositories
+### Featured Repositories
 
 1) **Incident Response & Investigations**
 - Repository: `incident-response-and-investigations`
@@ -38,8 +38,7 @@ This repository provides an overview of all investigations, operational workflow
 
 ---
 
-## Areas of Focus
-
+### Areas of Focus
 
 - SIEM log analysis and detection development
 - Endpoint triage and persistence analysis
