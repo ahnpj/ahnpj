@@ -7,59 +7,66 @@ This profile documents **hands-on labs, investigations, detections, and scripts*
 
 ---
 
-## Quick Start
+This GitHub documents hands-on investigations, SOC workflows, detection logic, and automation experiments that reflect how security analysts reason through real incidents and operational tasks.
 
-| Start Here | What it Shows |
-|---|---|
-| **Investigations** → [`incident-response-and-investigations/`](./incident-response-and-investigations/README.md) | SOC-style triage, scoping, evidence, reporting |
-| **SIEM + Parsing** → [`siem-log-parsing-and-analysis/`](./siem-log-parsing-and-analysis/README.md) | Splunk workflows, parsing, field extraction |
-| **Endpoint Triage** → [`endpoint-analysis-and-triage/`](./endpoint-analysis-and-triage/README.md) | Windows/Linux host triage fundamentals |
-| **Scripts / Automation** → [`log-analysis-and-detection-automation/`](./log-analysis-and-detection-automation/README.md) | Python parsing + detection ideas |
-| **Templates** → [`reporting-templates-and-examples/`](./reporting-templates-and-examples/README.md) | Reusable incident + case reporting formats |
 
 ---
 
-## Portfolio Map
 
-| Area | Current | Folder |
-|---|---:|---|
-| Endpoint Analysis & Triage | 3 labs | [`endpoint-analysis-and-triage/`](./endpoint-analysis-and-triage/README.md) |
-| Network Traffic Analysis | 2 labs | [`network-traffic-analysis/`](./network-traffic-analysis/README.md) |
-| SIEM Log Parsing & Analysis | 2 labs | [`siem-log-parsing-and-analysis/`](./siem-log-parsing-and-analysis/README.md) |
-| Incident Response & Investigations | 5 investigations | [`incident-response-and-investigations/`](./incident-response-and-investigations/README.md) |
-| Identity & Access Management | 1 lab | [`identity-and-access-management/`](./identity-and-access-management/README.md) |
-| Log Analysis & Detection Automation | 1 lab | [`log-analysis-and-detection-automation/`](./log-analysis-and-detection-automation/README.md) |
-| Reporting Templates & Examples | templates | [`reporting-templates-and-examples/`](./reporting-templates-and-examples/README.md) |
-| SOC Playbooks & Procedures | planned | [`soc-playbooks-and-procedures/`](./soc-playbooks-and-procedures/README.md) |
-| Vulnerability Management | planned | [`vulnerability-management/`](./vulnerability-management/README.md) |
+## Start Here — Portfolio Overview
+
+
+Cybersecurity & IT Operations Portfolio (central hub and navigation guide)
+Repository: `cybersecurity-it-operations-portfolio`
+
+
+This repository provides an overview of all investigations, operational workflows, and response playbooks, with explanations of how the work is organized and how to navigate each area.
+
 
 ---
 
-## Current Investigation Highlights
 
-| Investigation | Focus |
-|---|---|
-| Suspicious Process (SIEM) | alert triage → validation → reporting |
-| Backdoor + Registry Persistence | endpoint evidence + persistence analysis |
-| PowerShell Malware Investigation | suspicious PS activity + host artifacts |
-| Windows Host Compromise (Lifecycle) | full timeline reconstruction + ATT&CK mapping |
-| Web Defacement (Splunk) | detection pivots + investigation workflow |
+## Featured Repositories
 
-(Each investigation folder includes the full write-up + supporting reports/templates.)
+
+Incident Response & Investigations
+Repository: `incident-response-and-investigations`
+End-to-end incident investigations with evidence analysis, reporting, detection artifacts, and MITRE ATT&CK mapping.
+
+
+Security Operations Workflows
+Repository: `security-operations-workflows`
+Task-based SOC workflows for triage, log analysis, endpoint validation, and detection development.
+
+
+SOC Playbooks & Procedures (in progress)
+Repository: `soc-playbooks-and-procedures`
+Operational response playbooks and escalation procedures for common security scenarios.
+
 
 ---
 
-## Roadmap (Planned / In Progress)
 
-| Track | Planned Work |
-|---|---|
-| SOC Playbooks | phishing triage, auth anomalies, suspicious process, malware triage |
-| Vulnerability Mgmt | scanning → triage → remediation notes + reporting |
-| Detection Engineering | SPL detections, Sigma experiments, ATT&CK-aligned rules |
-| Threat Hunting | hypothesis-driven hunts using endpoint + SIEM telemetry |
-| Automation | parsing utilities, enrichment helpers, repeatable triage scripts |
+## Areas of Focus
 
 
+- SIEM log analysis and detection development
+- Endpoint triage and persistence analysis
+- Incident response documentation and reporting
+- Detection engineering concepts and automation design
+- Mapping investigations to security frameworks
+
+
+---
+
+
+## Connect
+
+
+Resume: https://drive.google.com/…
+LinkedIn: https://www.linkedin.com/in/…
+TryHackMe: https://tryhackme.com/p/…
+Email: peterjihyunahn@gmail.com
 ---
 
 ### Connect
