@@ -20,19 +20,11 @@ This repository is the central hub and navigation guide and provides an overview
 
 ### Featured Repositories
 
-1) **Incident Response & Investigations**
-- Repository: `incident-response-and-investigations`
-- End-to-end incident investigations with full case documentation, including detailed walkthroughs, incident summaries, formal IR reports, complete case narratives, detection artifact analysis, detection and hardening recommendations, and MITRE ATT&CK technique mapping.
-
-
-2) **Security Operations Workflows**
-- Repository: `security-operations-workflows`
-- Task-based SOC workflows for triage, log analysis, endpoint validation, and detection development.
-
-
-3) **SOC Playbooks & Procedures (in progress)**
-- Repository: `soc-playbooks-and-procedures`
-- Operational response playbooks and escalation procedures for common security scenarios.
+| Project | Repository | Focus |
+|--------|------------|--------|
+| Incident Response & Investigations | `incident-response-and-investigations` | End-to-end incident investigations with full case documentation, including walkthroughs, incident summaries, formal IR reports, complete case narratives, detection artifact analysis, detection and hardening recommendations, and MITRE ATT&CK technique mapping. |
+| Security Operations Workflows | `security-operations-workflows` | Task-based SOC workflows for triage, log analysis, endpoint validation, and detection development. |
+| SOC Playbooks & Procedures *(in progress)* | `soc-playbooks-and-procedures` | Operational response playbooks and escalation procedures for common security scenarios. |
 
 ---
 
@@ -48,7 +40,8 @@ This repository provides an overview of my technical background, how I approach 
 
 ### Connect
 
-- 📄 [Resume](https://drive.google.com/file/d/1SYtgvSbo3bs9vm5KlT6HAU0wfedNkQyD/view)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 🧪 [TryHackMe](https://tryhackme.com/p/your-profile)
-- 📧 peterjihyunahn@gmail.com
+| Contact | Link |
+|--------|------|
+| Resume | https://drive.google.com/file/d/1SYtgvSbo3bs9vm5KlT6HAU0wfedNkQyD/view |
+| LinkedIn | https://www.linkedin.com/in/your-link-here |
+| Email | peterjihyunahn@gmail.com |
