@@ -36,13 +36,13 @@ This repository is the central hub and navigation guide and provides an overview
 
 ---
 
-### Areas of Focus
+### Background and Methodology
 
-- SIEM log analysis and detection development
-- Endpoint triage and persistence analysis
-- Incident response documentation and reporting
-- Detection engineering concepts and automation design
-- Mapping investigations to security frameworks
+Additional context on my technical background, analytical approach, and how I structure investigations and workflows is documented in:
+
+Repository: `peterahn`
+
+This repository serves as a brief overview of my professional background and learning methodology, separate from the technical case work and operational workflows linked above.
 
 ---
 
