@@ -1,4 +1,4 @@
-## Hi, I’m Peter! 👋 
+### Hi, I’m Peter! 👋 
 ### Security Analyst | Detection Engineering & Automation | SIEM, Endpoint, Malware Investigations
 
 Security+ certified technical writer and systems analyst transitioning into cybersecurity. I focus on **understanding system behavior through logs, telemetry, and investigation**.
