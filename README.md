@@ -11,7 +11,8 @@ This GitHub documents hands-on investigations, SOC workflows, detection logic, a
 ### Start Here — Portfolio Overview
 
 
-**Cybersecurity & IT Operations Portfolio** (Repository: `cybersecurity-it-operations-portfolio`)
+**Cybersecurity & IT Operations Portfolio** (Repository: `cybersecurity-it-operations-portfolio`)<br>
+[Click here to open this repository](https://github.com/ahnpj/cybersecurity-it-operations-portfolio)
 
 This repository is the central hub and navigation guide and provides an overview of all investigations, operational workflows, and response playbooks, with explanations of how the work is organized and how to navigate each area.
 
