@@ -33,7 +33,8 @@ This repository is the central hub and navigation guide and provides an overview
 
 For additional context on my background, analytical approach, and security focus areas, see:
 
-Repository: `peterahn`
+Repository: `peterahn`<br>
+[Click here to open this repository](https://github.com/ahnpj/peterahn)
 
 This repository provides an overview of my technical background, how I approach investigations and operational analysis, and the types of security problems I focus on working through.
 
