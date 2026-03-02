@@ -1,7 +1,7 @@
 ## Hi, I’m Peter! 👋 
-### SOC Analyst | Security Analyst | Detection Engineering & Automation | SIEM & Endpoint Investigations
+### Systems Analyst | IT Support & Troubleshooting | Endpoint, Logs & SIEM Analysis
 
-Security+ certified technical writer and systems analyst transitioning into cybersecurity. I focus on **understanding system behavior through logs, telemetry, and investigation**.
+Security+ certified systems analyst & technical writer with a background in troubleshooting, system behavior analysis, and technical documentation. I focus on **understanding system behavior through logs, telemetry, and investigation**.
 
 This GitHub documents hands-on investigations, SOC workflows, detection logic, and automation experiments that reflect how security analysts reason through real incidents and operational tasks.
 
