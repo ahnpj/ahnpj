@@ -3,7 +3,7 @@
 
 Security+ certified systems analyst & technical writer with a background in troubleshooting, system behavior analysis, and technical documentation. I focus on **understanding system behavior through logs, telemetry, and investigation**.
 
-This GitHub documents hands-on investigations, SOC workflows, detection logic, and automation experiments that reflect how security analysts reason through real incidents and operational tasks.
+This GitHub documents hands-on system troubleshooting, log analysis, endpoint validation, incident investigations, SOC workflows, detection logic, and automation experiments that reflect how IT professionals and security analysts reason through real incidents and operational tasks.
 
 ---
 
