@@ -1,5 +1,5 @@
 ## Hi, I’m Peter! 👋 
-### Systems Analyst | IT Support & Troubleshooting | Endpoint, Logs & SIEM Analysis
+### Security Analyst | IT Support & Troubleshooting | Endpoint, Logs & SIEM Analysis
 
 <!--
 Security+ certified systems analyst & technical writer with a background in troubleshooting, system behavior analysis, and technical documentation. I focus on **understanding system behavior through logs, telemetry, and investigation**.
