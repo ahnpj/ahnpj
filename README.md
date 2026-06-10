@@ -7,7 +7,7 @@ Security+ certified systems analyst & technical writer with a background in trou
 This GitHub showcases hands-on system troubleshooting, log analysis, endpoint validation, incident investigations, SOC workflows, detection logic, and automation experiments that reflect how IT professionals and security analysts reason through real incidents and operational tasks.
 -->
 
-Security+ certified analyst with hands-on experience in log analysis, endpoint investigation, and incident response across FedRAMP and HIPAA environments. This portfolio documents structured security investigations mapped to MITRE ATT&CK, detection workflows, and automation — built to reflect how analysts actually reason through real incidents.
+Security+ certified analyst with hands-on experience in log analysis, endpoint investigation, and incident response across FedRAMP and HIPAA environments. This portfolio documents structured security investigations mapped to MITRE ATT&CK, detection workflows, and automation. Built to reflect how analysts and engineers actually reason through real incidents.
 
 ---
 
