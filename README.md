@@ -11,7 +11,7 @@ Security+ certified analyst with hands-on experience in log analysis, endpoint i
 
 Currently pursuing Microsoft identity, cloud, and Applied Skills credentials to deepen hands-on IAM and cloud administration expertise. 
 
-[View my progress on Microsoft Learn](https://learn.microsoft.com/en-us/users/peterahn-7638/achievements).
+[View my progress on Microsoft Learn](https://learn.microsoft.com/en-us/users/peterahn-7638/achievements)
 
 ---
 
